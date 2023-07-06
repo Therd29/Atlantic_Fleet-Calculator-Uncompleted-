@@ -1,0 +1,6 @@
+git init
+git status
+git commit -m "your commit object"
+branch -M "your branch"
+git remote add origin "url to your created repo"
+git push -u origin your_branch
